@@ -12,7 +12,7 @@ Tecnologias
 
 Para banco de dados da aplicaçao foi utilizado o H2 Database.
 Com a aplicação em execução digitar o link no navegado para acessar o database
-´´´ http://localhost:8081/h2 ´´´
+''' http://localhost:8081/h2 '''
 
 Para documentação da api foi utilizado o swagger.
 Digitar o seguinte link no navegador para acessar a documentaçao da api.
